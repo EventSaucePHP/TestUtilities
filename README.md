@@ -1,4 +1,4 @@
-## Code generation for EventSauce
+## Test utilities for EventSauce
 
 ```bash
 composer require --dev eventsauce/test-utilities
